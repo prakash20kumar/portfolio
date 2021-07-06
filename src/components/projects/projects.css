@@ -1,0 +1,21 @@
+/* projects */
+.projects {
+  height: 72vh;
+  padding-top: 30px;
+  overflow-y: auto;
+}
+
+.projects__navbar {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.projects__navbar > div {
+  margin: 0 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.projects__navbar-active {
+  color: #00f260;
+}

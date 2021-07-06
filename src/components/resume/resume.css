@@ -1,0 +1,35 @@
+/* Resume */
+
+.resume {
+  padding-top: 20px;
+}
+
+.resume-card__heading,
+.resume-language__heading {
+  margin-left: 10px;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #354538;
+}
+
+.resume-card__body {
+  margin-top: 10px;
+}
+
+.resume-card__title {
+  font-weight: 700;
+  background-image: linear-gradient(#00f260, #0575e6);
+  background-clip: text;
+  color: transparent;
+}
+
+.resume-card__name {
+  font-size: 16px;
+  margin-bottom: 0;
+  font-weight: 600;
+}
+
+.resume-card__details {
+  font-size: 0.9rem;
+  padding-top: 5px;
+}
